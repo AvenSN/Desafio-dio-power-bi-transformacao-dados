@@ -1,6 +1,6 @@
 # Desafio-dio-power-bi-transformacao-dados
 
-  Para completar esse desafio era necessário criar um bando de dados, fazer a limpeza e transformação e criar um relatório a partir destes dados.
+  Para completar esse desafio era necessário criar um banco de dados, fazer a limpeza e transformação e criar um relatório a partir destes dados.
   A primeira etapa foi criar o banco de dados na azure e fazer a integração com o Power BI.
   Após os dados estarem no Power BI foi necessário fazer a limpeza e transformação dos dados, que seguiu os passos abaixo:
     - Verificação dos cabeçalhos e tipos de dados;
